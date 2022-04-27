@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chadjw31
-- 👀 I’m interested in technical writing, copy editing/proofreading, and coding
+- 👀 I’m interested in technical writing, copy editing/proofreading, coding, web design, and music
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
